@@ -1,70 +1,28 @@
-# Getting Started with Create React App
+# Property Rental Platform
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
 
-## Available Scripts
+This project is a property rental platform designed to display a variety of properties, allowing users to book and manage their bookings efficiently. It features a clean and responsive interface, and an interactive booking management system.
 
-In the project directory, you can run:
+## Features
+- **User Information**: Display the user's name and avatar when logged in.
+- **Display a Variety of Properties**: Show properties with images, titles, descriptions, and prices.
+- **Book Now Buttons**: Users can book properties directly from the listing.
+- **Sort Properties**: Implement filters to allow users to sort properties by price range and other criteria.
+- **Manage Bookings**: Implement a booking management system allowing users to book properties.
+- **Cart Section**: Display a cart section to manage booked properties, showing property details, booking dates, and total cost.
+- **Modify Cart**: Allow users to increase, decrease, or remove booked properties from the cart.
+- **Real-Time Updates**: Display real-time updates of the cart total and booking count.
+- **Calculate Total Cost**: Implement a checkout process that calculates the total cost of booked properties.
+- **Enter Booking Details**: Allow users to enter and confirm booking details.
+- **Seamless Experience**: Ensure the website is responsive and works seamlessly on both desktop and mobile devices.
 
-### `npm start`
+## Deployment Link:- [Property-Rental-Platform-link](https://totality-frontend-challenge-sushobhit-property-rental-website.vercel.app/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Video 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+https://github.com/user-attachments/assets/c07bed1b-fd80-4d1d-9b1f-90822b2a35b6
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
